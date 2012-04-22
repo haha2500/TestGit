@@ -18,8 +18,6 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    // test 
-    // test in home add
     
 }
 
